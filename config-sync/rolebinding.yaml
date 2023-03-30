@@ -4,7 +4,7 @@ metadata:
   name: cluster-admin-eatsamosa0005
 subjects:
 - kind: User
-  name: eatsamosa.wbc@gmail.com
+  name: gcp@aisingapore.org
   apiGroup: rbac.authorization.k8s.io
 roleRef:
   kind: ClusterRole
