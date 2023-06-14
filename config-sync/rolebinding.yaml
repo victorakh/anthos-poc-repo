@@ -4,7 +4,7 @@ metadata:
   name: aisgsingapore-rolebinding
 subjects:
 - kind: User
-  name: gcp@aisingapore.org
+  name: stegaccloud@gmail.com
   apiGroup: rbac.authorization.k8s.io
 roleRef:
   kind: ClusterRole
